@@ -1,1 +1,1 @@
-# Discord-likeApp
+# DiscordLikeApp
